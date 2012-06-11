@@ -1,5 +1,6 @@
 
 Calibracion de imagenes satelitales Landsat7 / ETM+
+---------------------------------------------------
 
 Script que filtra imagenes sacadas con Landsat7 / ETM+ segun reflectancia y radiancia.
 
